@@ -28,6 +28,10 @@ margin: 0px 0px;
 display: block;
 possition: center;   
 }
+.responsive video {
+display: block;
+possition: center;   
+}
 body {
    margin: 0;
    padding: 0;
